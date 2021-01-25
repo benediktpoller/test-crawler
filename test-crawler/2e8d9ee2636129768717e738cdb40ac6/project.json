@@ -1,0 +1,13 @@
+{
+    "id": "2e8d9ee2636129768717e738cdb40ac6",
+    "name": "EIG",
+    "crawlerInput": {
+        "url": "https://effectit.at/",
+        "browser": "chrome-puppeteer",
+        "method": "spiderbot",
+        "viewport": {
+            "width": 1920,
+            "height": 1080
+        }
+    }
+}
